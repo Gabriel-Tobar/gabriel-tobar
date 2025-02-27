@@ -1,8 +1,11 @@
-# Gabriel Tobar
+#  💻Gabriel Tobar
 
 Me chamo Gabriel Soares Tobar tenho 15 anos, Sou estudante do ensino fundamental 2 iniciei os estudos de programação fazem 3 meses, Nesses 3 meses eu aprendi Python HTML & CSS e IA - Inteligencia Artificial, Nesse perfil vou compartilhar tudo sobre meus projetos, Muito obrigado ate mais... 
 
+### 🔗 Minhas Redes Sociais  
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seu_usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_usuario)  
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -54,11 +57,4 @@ Me chamo Gabriel Soares Tobar tenho 15 anos, Sou estudante do ensino fundamental
     src="https://github-readme-stats.vercel.app/api?username=gabriel-tobar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-tobar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
