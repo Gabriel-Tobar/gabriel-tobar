@@ -1,12 +1,11 @@
-# Gabriel Soares Tobar
+# Dev. Gabriel Tobar
 
-Me chamo Gabriel Soares Tobar, trabalho como programador dev e entendo da area: IA - Inteligencia Artificial, Backend, Frontend e Fullstack.
+Me chamo Gabriel Soares Tobar, sou um Desenvolvidor Fullstack Junior na area e estudo programação tambem.
 
 ### 🔗 Minhas Redes Sociais  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tobar.gb)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_usuario)  
-[![Workana](https://img.shields.io/badge/Workana-%230077B5.svg?style=for-the-badge&logo=Workana&logoColor=white)](https://www.workana.com/in/seu_usuario)  
 ---
 ### Estatísticas
 
